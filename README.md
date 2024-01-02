@@ -2,7 +2,7 @@
 
 # 💻 Projeto
 
-Aplicação para ranquear e compartilhar suas leituras
+Aplicação para compartilhar suas leituras
 
 # 🛠️ Tecnologias utilizadas
 
